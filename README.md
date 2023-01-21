@@ -37,21 +37,6 @@ Running the Notebook:
 🔆 [@Hrishikesh Yadav](https://www.github.com/hrishikesh332)
 
 
-## Contributing
-
-Contributions are always welcome!
-
-See `CONTRIBUTING.md` for ways to get started.
-
-Please adhere to this project's `CODE_OF_CONDUCT.md`.
-
-## Guide
-
-A guideline of project composition and creation.
-
-soon adding `guide.md`
-
-Please adhere to this project's `CODE_OF_CONDUCT.md`.
 
 ## Feedback
 
@@ -62,6 +47,3 @@ If you have any feedback, please reach out to us at **hrishikesh3321@gmail.com**
 
 For support join our Slack channel - [AMA](https://ml-geeksworkspace.slack.com/archives/C03K2M9SBAA)
 
-## License
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)

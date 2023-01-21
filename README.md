@@ -3,11 +3,15 @@
   <h3 align="center">Quantum Machine Learning</h3>
 
 </div>
-------
 
 ## About
 
 Quantum Machine Learning is Quantum Computing + Machine Learning 🧠. There are various benefits associated with using QML: It helps to speed up the training process, working on high dimensional data is possible and more 📊.
+
+## Objective
+
+📙 To add resources to follow up related to Quantum Mahcine Learning
+🧠 To build various model using QML 
 
 
 ## Languages and Tools
